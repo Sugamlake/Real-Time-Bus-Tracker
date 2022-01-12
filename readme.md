@@ -1,6 +1,17 @@
 # Real Time Bus Tracker
-Esta es una prueba
-- bla
+Proyecto Original: Parada de autobus desde Boston hasta Harvard sin detenciones solo mostrando el punto de origen y la parada final.
+
+Modificaciónes: 
+- Se agrego recorrido dinámico en movimiento usando 
+
+- Se agrego un punto en cada parada del mapa
+
+- Se agrego un marcador de autobus en cada parada mostrando su recorrido
+
+### Otras modificaciones
+
+- También se pueden agregar otras modificaciones al proyecto como una enrutador que muestra el tiempo y la velocidad entre las paradas 
+Se pueden mostrar con un marcador los puntos de interes por cada paradero
 
 
 
