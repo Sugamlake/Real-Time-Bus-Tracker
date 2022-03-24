@@ -21,7 +21,7 @@ Proyecto Original: Parada de autobus desde Boston hasta Harvard sin detenciones 
 
 
 
-MIT License
+### MIT License
 
 Copyright (c) [2021] [ Susana Gamboa Navarro]
 
