@@ -1,24 +1,36 @@
 # Real Time Bus Tracker
-Proyecto Original: Parada de autobus desde Boston hasta Harvard sin detenciones solo mostrando el punto de origen y la parada final.
 
-### Modificaciónes: 
-- Se agrego recorrido dinámico en movimiento usando 
+### Description: 
+Bus stop from Boston to Harvard without stops only showing the point of origin and the final stop.
 
-- Se agrego un punto en cada parada del mapa
+### Features: 
 
-- Se agrego un marcador de autobus en cada parada mostrando su recorrido
+- Added dynamic path in motion using
 
-### Otras modificaciones
+- Added a point at each stop on the map
 
-- También se pueden agregar otras modificaciones al proyecto como una enrutador que muestra el tiempo y la velocidad entre las paradas 
+- Added a bus marker at each stop showing its route
 
-- Se pueden mostrar con un marcador los puntos de interes por cada paradero
+### Improvements :
+
+- Other mods can also be added to the project like a router that shows the time and speed between stops
+
+- Points of interest can be shown with a marker for each whereabouts
 
 
+### Installation Guidelines: 
+- First clone the project
+- Initialize a web server as go live in the locations of the Real-Time-Bus-Tracker project
+- The execution is by opening the index.html file in any browser, if you want to see it with a console I recommend Google Chrome; by pressing the "Show stop between MIT and Harvard" button you will see an animation of different points on the map.
 
+### Screenshots: 
 
+[![Unknown.jpg](https://i.postimg.cc/Nj4HgTsq/Unknown.jpg)](https://postimg.cc/hXXjsXQp)
 
-
+### Technology used: 
+- HTML5
+- CSS3
+- JavaScript
 
 
 ### MIT License
